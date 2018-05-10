@@ -1,0 +1,9 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/.tern-project
+/home/
+/ClassDiagram.ucls
+/.idea
+*.iml
